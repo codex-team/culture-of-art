@@ -1,0 +1,15 @@
+{
+  "name": "cultofart",
+  "version": "1.0.0",
+  "scripts": {
+    "css": "postcss ./src/index.pcss -o ./public/bundle.css --verbose --watch"
+  },
+  "devDependencies": {
+    "postcss-cli": "^5.0.0",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-inline-svg": "^3.1.1",
+    "postcss-load-config": "^1.2.0",
+    "postcss-minimize": "^0.1.3",
+    "postcss-nested": "^3.0.0"
+  }
+}
