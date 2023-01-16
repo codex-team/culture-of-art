@@ -1,1 +1,1 @@
-[assets/demo.jpeg]()
+![](assets/demo.jpeg)
